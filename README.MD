@@ -1,5 +1,7 @@
 # This is Leetcode's 30 Days Of Pandas Challenge
-## I provided the question link as well my answer in both Pandas and MySQL
+
+I provided the question link as well my answer link in both Pandas and MySQL.
+'Note' column indicates what unique function used
 
 | No | Question | Answer | Note |
 | :--| :------- | :----- | :--- |
